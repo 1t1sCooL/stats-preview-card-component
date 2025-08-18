@@ -106,7 +106,7 @@ body {
     color: var(--White);
     margin-bottom: 0.3rem;
 }
-.containerText ul :not(span) {
+.containerText li :not(span) {
     text-transform: uppercase;
 }
 
