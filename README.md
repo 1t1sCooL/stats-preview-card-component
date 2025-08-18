@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel]()
+- Solution URL: [Vercel](https://stats-preview-card-component-swart-kappa.vercel.app/)
 - Live Site URL: [mmalabugin.ru/StatsPreviewCardComponent](https://mmalabugin.ru/StatsPreviewCardComponent/)
 
 ## My process
